@@ -1,0 +1,2 @@
+# SingletonR
+Practica de singleton
